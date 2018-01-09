@@ -1,0 +1,9 @@
+[package]
+name = "stellar-vanity-address"
+version = "0.1.0"
+authors = ["Francesco Ceccon <francesco@ceccon.me>"]
+
+[dependencies]
+shuttle-core = "0.1.0"
+clap = "2.29.0"
+num_cpus = "1.0"
